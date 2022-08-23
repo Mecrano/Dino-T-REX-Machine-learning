@@ -1,0 +1,14 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "cSpell.words": [
+        "colorkey",
+        "dyno",
+        "Dyno",
+        "KEYDOWN",
+        "spritecollide"
+    ],
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=pygame"
+    ]
+}
